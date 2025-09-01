@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [-](-)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Mobile Developer**
 
 - 📫 How to reach me **bebenmerayap@gmail.com**
 
